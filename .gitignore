@@ -1,0 +1,11 @@
+venv
+.env
+__pycache__/
+.pytest_cache/
+__pycache__
+cc-backend-dev.pem
+key-08-26.pem
+
+templates
+generator.py
+test.py
